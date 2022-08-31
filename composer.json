@@ -1,0 +1,15 @@
+{
+    "name": "svetlana/hexlet-php",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Svetlana\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "svetlana"
+        }
+    ],
+    "require": {}
+}
