@@ -2,9 +2,10 @@
     "name": "svetlana/hexlet-php",
     "description": "example package",
     "autoload": {
-        "psr-4": {
-            "Svetlana\\HexletPhp\\": "src/"
-        }
+        "files": [
+            "src/Runner.php"
+        ]
+        
     },
     "authors": [
         {
